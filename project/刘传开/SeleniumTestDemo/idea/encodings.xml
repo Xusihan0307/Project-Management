@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/core/ElementFinder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/core/WebDriverEngine.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/core/WebTestListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/dataprovider/ExcelDataProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/webtest/demo/text.java" charset="GBK" />
+  </component>
+</project>
