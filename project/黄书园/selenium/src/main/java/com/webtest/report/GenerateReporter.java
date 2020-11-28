@@ -61,7 +61,7 @@ public class GenerateReporter implements IReporter {
             String text = scanner.useDelimiter("\\A").next();
             scanner.close();
 
-            new MailUtil(text).send();
+//            new MailUtil(text).send();
 
         } catch (Exception e) {
             // TODO Auto-generated catch block
