@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+<!--    <test verbose="2" preserve-order="true" name="E:/idea/selenium"></test>-->
+    <test name="test" preserve-order="true">
+        <classes>
+            <class name="com.webtest.demo.Mainpage"/>
+            <class name="com.webtest.demo.adminPage"/>
+            <class name="com.webtest.demo.Bookpage"/>
+            <class name="com.webtest.demo.OrderCreatePage"/>
+            <class name="com.webtest.demo.OrderListPage"/>
+            <class name="com.webtest.demo.OrderPage"/>
+            <class name="com.webtest.demo.PayPage"/>0
+            <class name="com.webtest.demo.SciencePage"/>
+
+
+        </classes>
+    </test>
+</suite>
