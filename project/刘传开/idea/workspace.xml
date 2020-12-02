@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ac003ec-db23-4a61-b1e2-23887fc71dd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\apache-maven-3.6.3\cangku" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kBqWdy97mhcjmf66wOU4luoXsw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\selenium\src\main\java\com\webtest\listen" />
+      <recent name="E:\idea\selenium\src\main\java\com\webtest\demo" />
+      <recent name="E:\idea\selenium\src\main\resources" />
+      <recent name="E:\idea\selenium\src\main\resources\libs" />
+      <recent name="E:\idea\selenium\src\main\java\com\webtest\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\selenium\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/QQfile/selenium/testng.xml">
+    <configuration name="E:/QQfile/selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainpage" type="TestNG" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webtest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webtest.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.webtest.demo.Mainpage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainpage.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webtest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webtest.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.webtest.demo.Mainpage" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainpage.test4" type="TestNG" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webtest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webtest.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.webtest.demo.Mainpage" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webtest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webtest.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.webtest.demo.PayPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SciencePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webtest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webtest.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.webtest.demo.SciencePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SciencePage.test34" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webtest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.webtest.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.webtest.demo.SciencePage" />
+      <option name="METHOD_NAME" value="test34" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Mainpage" />
+      <item itemvalue="TestNG.Mainpage.test4" />
+      <item itemvalue="TestNG.PayPage" />
+      <item itemvalue="TestNG.SciencePage" />
+      <item itemvalue="TestNG.SciencePage.test34" />
+      <item itemvalue="TestNG.Mainpage.test3" />
+      <item itemvalue="TestNG.E:/QQfile/selenium/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/QQfile/selenium/testng.xml" />
+        <item itemvalue="TestNG.Mainpage.test3" />
+        <item itemvalue="TestNG.SciencePage.test34" />
+        <item itemvalue="TestNG.SciencePage" />
+        <item itemvalue="TestNG.PayPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ac003ec-db23-4a61-b1e2-23887fc71dd3" name="Default Changelist" comment="" />
+      <created>1605184364479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605184364479</updated>
+      <workItem from="1605184365793" duration="1531000" />
+      <workItem from="1605186128350" duration="1743000" />
+      <workItem from="1605246858112" duration="7126000" />
+      <workItem from="1605428721150" duration="599000" />
+      <workItem from="1605485015648" duration="21329000" />
+      <workItem from="1605514840075" duration="12000" />
+      <workItem from="1605536080029" duration="3087000" />
+      <workItem from="1605616909511" duration="662000" />
+      <workItem from="1605670988877" duration="7903000" />
+      <workItem from="1606035150036" duration="1002000" />
+      <workItem from="1606089939977" duration="19909000" />
+      <workItem from="1606262993566" duration="17859000" />
+      <workItem from="1606349068471" duration="12625000" />
+      <workItem from="1606368659006" duration="926000" />
+      <workItem from="1606457723128" duration="10846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="0" width="677" height="824" key="#E:/idea/selenium/testng.xml" timestamp="1605498625152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="0" width="677" height="824" key="#E:/idea/selenium/testng.xml/0.0.1536.824@0.0.1536.824" timestamp="1605498625152" />
+    <state x="651" y="274" key="#Notifications" timestamp="1605538213275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605538213275" />
+    <state x="361" y="53" key="#Plugins" timestamp="1605506587236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1605506587236" />
+    <state x="259" y="0" key="#Project_Structure" timestamp="1605671277393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1605491721245" />
+    <state x="259" y="0" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1605671277393" />
+    <state x="232" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606363669106">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605507852220" />
+    <state x="232" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1606363669106" />
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606458158657">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1606458158657" />
+    <state x="500" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605506574791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605506574791" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605507833504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605507833504" />
+    <state x="651" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605671108082">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="651" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1605671108082" />
+    <state x="572" y="174" key="FileChooserDialogImpl" timestamp="1606368917844">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605493994771" />
+    <state x="572" y="174" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606368917844" />
+    <state width="1601" height="283" key="GridCell.Tab.0.bottom" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="123" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605617574990" />
+    <state width="1601" height="283" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.0.center" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="123" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605617574990" />
+    <state width="1601" height="283" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.0.left" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="123" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605617574990" />
+    <state width="1601" height="283" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.0.right" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="123" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605617574990" />
+    <state width="1601" height="283" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.1.bottom" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605539172926" />
+    <state width="1601" height="283" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.1.center" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605539172926" />
+    <state width="1601" height="283" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.1.left" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605539172926" />
+    <state width="1601" height="283" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state width="1601" height="283" key="GridCell.Tab.1.right" timestamp="1606469635948">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605539172926" />
+    <state width="1601" height="283" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606469635948" />
+    <state x="330" y="88" key="Maven.ArtifactSearchDialog" timestamp="1606035460185">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="88" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1606035460185" />
+    <state x="395" y="15" key="SettingsEditor" timestamp="1606368877890">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="53" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605491560349" />
+    <state x="395" y="15" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606368877890" />
+    <state x="492" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1606349117480">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="492" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1606349117480" />
+    <state x="174" y="134" key="new project wizard" timestamp="1606355632862">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="174" y="134" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1606355632862" />
+    <state x="449" y="151" width="700" height="708" key="search.everywhere.popup" timestamp="1606464186365">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605509048395" />
+    <state x="449" y="151" width="700" height="708" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1606464186365" />
+  </component>
+</project>
