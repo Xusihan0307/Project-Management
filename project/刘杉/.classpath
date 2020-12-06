@@ -16,5 +16,7 @@
 	<classpathentry kind="lib" path="libs/commons-math3-3.6.1.jar"/>
 	<classpathentry kind="lib" path="libs/junit-3.8.1.jar"/>
 	<classpathentry kind="lib" path="libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/freemarker.jar"/>
+	<classpathentry kind="lib" path="libs/javax.mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
