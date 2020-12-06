@@ -40,7 +40,6 @@ public class BackTest extends BaseTest{
 	}
 	@Test(priority = 2)
 	public void changetest() throws InterruptedException {
-		webtest.open("http://localhost:8089/admin");
 //		Thread.sleep(1000);
 //		webtest.getWindow(0);
 		String handle = driver.getWindowHandle();
