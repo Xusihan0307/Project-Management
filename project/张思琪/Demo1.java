@@ -1,9 +1,5 @@
 package testng;
 
-import java.awt.Desktop.Action;
-import java.awt.event.ActionEvent;
-import java.util.Iterator;
-import java.util.Set;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -11,21 +7,19 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
-import org.seleniumhq.jetty9.security.authentication.LoginAuthenticator;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class Demo1 {
 	public WebDriver driver;
 	String urlString="http://localhost:8088/";
-	/*@Test(priority = 1)
+	@Test(priority = 1)
 	public void test1() throws InterruptedException{
 		System.setProperty("Webdriver.gecko.driver","D:\\geckodriver.exe");
 		WebDriver driver=new FirefoxDriver();
 		driver.get(urlString);
 		driver.findElement(By.linkText("亲，请登录")).click();//在首页点击登录
 		Thread.sleep(1000);
-		driver.findElement(By.id("username")).sendKeys("zsq");//输入用户名
+		driver.findElement(By.id("username")).sendKeys("zdd");//输入用户名
 		Thread.sleep(1000);
 		driver.findElement(By.id("password")).sendKeys("123");//输入密码
 		Thread.sleep(1000);
@@ -110,7 +104,7 @@ public class Demo1 {
 		driver.quit();
 	}
 	
-	/*@Test(priority = 4)
+	@Test(priority = 4)
 	public void test4() throws InterruptedException{
 		System.setProperty("Webdriver.gecko.driver","D:\\geckodriver.exe");
 		driver=new FirefoxDriver();
@@ -173,7 +167,7 @@ public class Demo1 {
 		ab.click();//点击书籍出版社跳转到首页
 		Thread.sleep(2000);
 		driver.quit();
-	}*/
+	}
 	
 	@Test(priority = 7)
 	public void test7() throws InterruptedException{
@@ -182,7 +176,7 @@ public class Demo1 {
 		driver.get(urlString);
 		driver.findElement(By.linkText("亲，请登录")).click();//在首页点击登录
 		Thread.sleep(1000);
-		driver.findElement(By.id("username")).sendKeys("zsq");//输入用户名
+		driver.findElement(By.id("username")).sendKeys("zdd");//输入用户名
 		Thread.sleep(1000);
 		driver.findElement(By.id("password")).sendKeys("123");//输入密码
 		Thread.sleep(1000);
@@ -219,7 +213,7 @@ public class Demo1 {
 		driver.get(urlString);
 		driver.findElement(By.linkText("亲，请登录")).click();//在首页点击登录
 		Thread.sleep(1000);
-		driver.findElement(By.id("username")).sendKeys("zsq");//输入用户名
+		driver.findElement(By.id("username")).sendKeys("zdd");//输入用户名
 		Thread.sleep(1000);
 		driver.findElement(By.id("password")).sendKeys("123");//输入密码
 		Thread.sleep(1000);
