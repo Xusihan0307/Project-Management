@@ -19,7 +19,7 @@ public class Backinfor_Test extends BaseTest{
 	public void testLogin(String username,String password) throws InterruptedException {
 		
 		webtest.open("http://localhost:8089");
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		webtest.click("xpath=//*[@id=\"header_ul\"]/li[3]/a");
 		
 		webtest.type("id=username", username);
@@ -33,9 +33,14 @@ public class Backinfor_Test extends BaseTest{
 		webtest.click("xpath=/html/body/div[1]/div/ul/li[1]/div/button");
 		webtest.click("xpath=/html/body/div[1]/div/ul/li[1]/div/ul/li[2]/a");
 		Thread.sleep(1000);
+		webtest.enterFrame(0);
+		webtest.enterFrame("leftFrame");
 		webtest.click("xpath=//*[@id=\"left-menu-main\"]/div[6]/div[1]/h4/a");
 		webtest.click("xpath=//*[@id=\"collapseSix\"]/div/ul/li/a");
 		Thread.sleep(1000);
+		webtest.leaveFrame();
+		webtest.enterFrame(0);
+		webtest.enterFrame("centerFrame");
 		webtest.click("xpath=//*[@id=\"man\"]");
 		Thread.sleep(1000);
 		webtest.click("xpath=/html/body/div/form/div[11]/div/button");
