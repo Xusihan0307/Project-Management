@@ -3,6 +3,9 @@ package com.webtest.demo;
 import java.io.IOException;
 
 import org.apache.poi.ss.formula.functions.T;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -32,10 +35,17 @@ public class ShoppingCart extends BaseTest{
 		webtest.click("id=7");
 		//选择第一本小说
 		webtest.click("xpath=/html/body/div[4]/div[1]/div[2]/div[3]/ul/li[1]/a/img");
+		Thread.sleep(3000);
+//		Actions actions = new Actions(driver);
 		Thread.sleep(2000);
-				
-		webtest.runJs("window.scrollTo(500,500)");
+//		webtest.runJs("window.scrollTo(1000,500)");
+//		webtest.runJs("window.scrollTo(0,document.body.scrollHeight)");
+//		webtest.leaveFrame();
+//		webtest.getAllWindowTitles();
+		webtest.getWindow(1);	
+		webtest.runJs("window.scrollTo(300,300)");
 		Thread.sleep(2000);
+		webtest.isChecked("class=cart");
 		webtest.click("class=cart");
 		Thread.sleep(2000);
 		//点击 去购物车结算
